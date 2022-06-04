@@ -1,6 +1,6 @@
 # programming-foundation
 
-Gain the core knowledge to begin programming in any language. In this course will use Python to explore the core concepts and structure of programming languages and helps you grasp what’s going on under the hood.
+Gain the core knowledge to begin programming in any language. In this repo, will use Python to explore the core concepts and structure of programming languages and helps you grasp what’s going on under the hood.
 
 ### Learning objectives
 
@@ -16,5 +16,5 @@ Gain the core knowledge to begin programming in any language. In this course wil
 
 ### Skills covered
 
-* Python (Programming Language)
-* Programming
+- Python (Programming Language)
+- Programming
