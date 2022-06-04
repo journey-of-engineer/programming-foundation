@@ -16,4 +16,5 @@ Gain the core knowledge to begin programming in any language. In this course wil
 
 ### Skills covered
 
-Python (Programming Language)Programming
+* Python (Programming Language)
+* Programming
